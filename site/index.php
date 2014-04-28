@@ -119,7 +119,7 @@
 						<div class="tab-pane fade active in">
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/mapagella" id="andres-pagella"><img class="img-circle" src="/images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
+									<a target="_blank" href="http://twitter.com/mapagella" id="andres-pagella"><img class="img-circle" src="./images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - <a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank">Resolviendo problemas imposibles</a></p>
@@ -147,7 +147,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/luguedesde" id="lucia-guedes"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
+									<a target="_blank" href="http://twitter.com/luguedesde" id="lucia-guedes"><img class="img-circle" src="./images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - <a href="http://bit.ly/luciaguedes-diseno-para-desarrolladores" target="_blank">Diseño para desarrolladores</a></p>
@@ -174,7 +174,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/cuerbot" id="bruno-aguirre"><img class="img-circle" src="/images/speakers/cuerbot.png" alt="Bruno Aguirre" /></a>
+									<a target="_blank" href="http://twitter.com/cuerbot" id="bruno-aguirre"><img class="img-circle" src="./images/speakers/cuerbot.png" alt="Bruno Aguirre" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - <a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank">Skynet son los padres</a></p>
@@ -201,7 +201,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/guilespi" id="guillermo-winkler"><img class="img-circle" src="/images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
+									<a target="_blank" href="http://twitter.com/guilespi" id="guillermo-winkler"><img class="img-circle" src="./images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - <a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank">Sistemas Distribuidos Observables.</a></p>
@@ -237,7 +237,7 @@
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/fernickk" id="fernando-pardo">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/fernickk.png" alt="Fernando Pardo" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/fernickk.png" alt="Fernando Pardo" />
 									</a>
 								</div>
 								<div class="span10">
@@ -266,7 +266,7 @@
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/marpo60" id="marcelo-dominguez">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/marpo60.jpeg" alt="Marcelo Dominguez" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/marpo60.jpeg" alt="Marcelo Dominguez" />
 									</a>
 								</div>
 								<div class="span10">
@@ -298,7 +298,7 @@
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/dhcabrera"  id="diego-cabrera">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/dhcabrera.jpg" alt="Diego Cabrera" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/dhcabrera.jpg" alt="Diego Cabrera" />
 									</a>
 								</div>
 								<div class="span8">
@@ -354,14 +354,14 @@
 								</div>
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/pablodenatale" id="pablo-de-natale">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/pdenatale.jpeg" alt="Pablo De Natale" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/pdenatale.jpeg" alt="Pablo De Natale" />
 									</a>
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/marpo60" id="mauro-flores">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/mauro_fcib.png" alt="Mauro Flores" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/mauro_fcib.png" alt="Mauro Flores" />
 									</a>
 								</div>
 								<div class="span10">
@@ -388,7 +388,7 @@
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/gabrielfagundez" id="gabriel-fagundez">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/gabrielfagundez.jpeg" alt="Gabriel Fagúndez" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/gabrielfagundez.jpeg" alt="Gabriel Fagúndez" />
 									</a>
 								</div>
 								<div class="span10">
@@ -427,7 +427,7 @@
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/acyment" id="alan-cyment">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/acyment.jpg" alt="Alan Cyment" />
+										<img style="width: 160px;" class="img-circle" src="./images/speakers/acyment.jpg" alt="Alan Cyment" />
 									</a>
 								</div>
 								<div class="span10">
