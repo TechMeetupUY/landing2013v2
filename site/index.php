@@ -302,10 +302,7 @@
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank">Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre.</a>
-										<a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a>
-										<a href="https://www.youtube.com/watch?v=6GWwLEMFJJo&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=3" target="_blank"><i class="icon-play"></i></a>
-									</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank">Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre.</a></p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -317,6 +314,8 @@
 										<ul style='float:left' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/diegocabrera"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="https://www.youtube.com/watch?v=6GWwLEMFJJo&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=3" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 										<!--
 										<p class="bio">
@@ -335,6 +334,8 @@
 										<ul style='float:right' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/pdenatale"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pablodenatale"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="https://www.youtube.com/watch?v=6GWwLEMFJJo&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=3" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 										<div class="clearfix"></div>
 										<!--
@@ -372,7 +373,8 @@
 										este contexto.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
-											<li><a href="http://bit.ly/mauro-viviendo-en-las-nubes" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://tech.meetup.uy/v2013/docs/seguridad-en-la-nube-mauro-flores.pdf" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="https://www.youtube.com/watch?v=gVXgl3fYsAM&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=11" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -405,6 +407,7 @@
 											<li><a target="_blank" href="http://twitter.com/gabrielfagundez"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/gabrielfagundez"><i class="icon-linkedin"></i></a></li>
 											<li><a href="http://bit.ly/gabriel-simplemente-rest" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="https://www.youtube.com/watch?v=NXtMM7Wmn8M&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=12" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -441,6 +444,7 @@
 											<li><a target="_blank" href="http://twitter.com/acyment"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://ar.linkedin.com/pub/alan-cyment/2/213/142/"><i class="icon-linkedin"></i></a></li>
 											<li><a href="http://bit.ly/alan-cyment-kaizen-delivery-continuo" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="https://www.youtube.com/watch?v=Q9lgmqxt2eE&index=13&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
