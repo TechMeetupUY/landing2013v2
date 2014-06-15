@@ -464,6 +464,35 @@
 			</div>
 		</section>
 
+		<section class="wrapper bg-white">
+			<a id="multimedia" class="anchor"></a>
+			<div class="container">
+				<div class="row">
+					<div class="span12 text-center mar-b30">
+						<hgroup>
+							<h2>Multimedia</h2>
+						</hgroup>
+					</div>
+				</div>
+				<div class="row">
+					<div id="" class="span6">
+						<div class="row-fluid">
+							<div class="span12 text-center mar-b30">
+							<a href="https://www.youtube.com/playlist?list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><img src="./images/videos.png"></a>
+							</div>
+						</div>
+					</div>
+					<div id="" class="span6">
+						<div class="row-fluid">
+							<div class="span12 text-center mar-b30">
+							<a href="https://plus.google.com/b/115708920691702747812/photos/115708920691702747812/albums/6025243808443144449" target="_blank"><img src="./images/collage_2013.png"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<section id="agenda" class="wrapper-2 bg-turquoise colored">
 			<a class="anchor" id="agenda"></a>
 			<div class="container">
@@ -750,6 +779,8 @@
 
 			</div>
 		</section>
+
+		
 
 		<!-- Workshops -->
 		<section class="wrapper bg-white">
